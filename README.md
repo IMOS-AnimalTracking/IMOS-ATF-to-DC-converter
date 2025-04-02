@@ -1,4 +1,4 @@
-[![YuriNiella - IMOS-ATF-to-DC-converter](https://img.shields.io/static/v1?label=YuriNiella&message=IMOS-ATF-to-DC-converter&color=blue&logo=github)](https://github.com/YuriNiella/IMOS-ATF-to-DC-converter)
+[![IMOS-AnimalTracking - IMOS-ATF-to-DC-converter](https://img.shields.io/static/v1?label=IMOS-AnimalTracking&message=IMOS-ATF-to-DC-converter&color=blue&logo=github)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
 
 # IMOS Animal Tracking acoustic to Darwin Core conversor
 
