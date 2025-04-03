@@ -5,5 +5,5 @@
 This Shiny App converts the summarised version of the quality controlled IMOS 
 Animal Tracking Facility acoustic telemetry dataset into Darwin Core format. 
 
-<img src="www/App_screenshot.png" width="700"/>
+<img src="www/App_screenshot.png" width="800"/>
 	Screenshot of the App interface
