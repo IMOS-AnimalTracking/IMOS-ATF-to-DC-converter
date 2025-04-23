@@ -1,17 +1,10 @@
 [![IMOS-AnimalTracking - IMOS-ATF-to-DC-converter](https://img.shields.io/static/v1?label=IMOS-AnimalTracking&message=IMOS-ATF-to-DC-converter&color=blue&logo=github)](https://github.com/IMOS-AnimalTracking/remora)
-[![issues - IMOS-ATF-to-DC-converter](https://img.shields.io/github/issues/IMOS-AnimalTracking/
-IMOS-ATF-to-DC-converter)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/issues)
-[![stars - IMOS-ATF-to-DC-converter](https://img.shields.io/github/stars/IMOS-AnimalTracking/
-IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
-[![forks - IMOS-ATF-to-DC-converter](https://img.shields.io/github/forks/IMOS-AnimalTracking/
-IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
-[![watchers - IMOS-ATF-to-DC-converter](https://img.shields.io/github/watchers/IMOS-AnimalTracking/
-IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
+[![issues - IMOS-ATF-to-DC-converter](https://img.shields.io/github/issues/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/issues)
+[![stars - IMOS-ATF-to-DC-converter](https://img.shields.io/github/stars/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
+[![forks - IMOS-ATF-to-DC-converter](https://img.shields.io/github/forks/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
+[![watchers - IMOS-ATF-to-DC-converter](https://img.shields.io/github/watchers/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
 
-# IMOS Animal Tracking acoustic to Darwin Core conversor
-
-<h1 align="center"><span style="color:#BEBEBE">re</span><span style="color:#808080"><b>mo</b></span><span style="color:#BEBEBE">ra</span></h1>
-<h4 align="center">A shiny R app to transform between IMOS Animal Tracking acoustic to Darwin Core format</h4>
+# IMOS Animal Tracking acoustic to Darwin Core converter
 
 <p align="center">
   <a href="#overview">Overview</a> •
@@ -36,6 +29,7 @@ The acoustic telemetry data collected by the [IMOS Animal Acoustic Telemetry Dat
   <img src="Images/Workflow1.png" width="800">
 </p>
 
+<br>
 
 ## Installation
 
@@ -44,7 +38,7 @@ This Shiny app requires R version >= 3.6.0
 You will need to download the app as a zip file by clicking on the **green button "Code"** and then **Download ZIP**:
 
 <p align="center">
-  <img src="Images/Installation.png" width="200">
+  <img src="Images/Installation.png" width="400">
 </p>
 
 After extracting the folders from the zip file downloaded, go to the **Converter folder** and double click the **app.R** file. To initialize the app please type the following code into the R console:
