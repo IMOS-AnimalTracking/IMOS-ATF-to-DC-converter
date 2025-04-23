@@ -4,7 +4,7 @@
 [![forks - IMOS-ATF-to-DC-converter](https://img.shields.io/github/forks/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
 [![watchers - IMOS-ATF-to-DC-converter](https://img.shields.io/github/watchers/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter?style=social)](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter)
 
-# IMOS Animal Tracking acoustic to Darwin Core converter
+# IMOS Animal Tracking Acoustic to Darwin Core converter
 
 <p align="center">
   <a href="#overview">Overview</a> •
