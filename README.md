@@ -65,12 +65,10 @@ After selecting both the input and output folders, please click the **Convert fi
 
 ## What to do if you encounter a problem
 
-If you are convinced you have encountered a bug or
-unexpected/inconsistent behaviour when using this shiny app, you can post an
+If you encounter a bug or unexpected/inconsistent behaviour when using this shiny app, you can post an
 issue [here](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/issues). First, have a read through the posted issues to see if others have encountered the
 same problem and whether a solution has been offered. You can reply to an existing issue if you have 
-the same problem and have more details to
-share or you can submit a new issue. 
+the same problem and have more details to share or you can submit a new issue. 
 
 To submit an issue, you will need to *clearly* describe the issue, include a reproducible example, describe what you expected to happen (but didn’t), and provide screenshots/images that illustrate the problem.
 
@@ -79,8 +77,7 @@ To submit an issue, you will need to *clearly* describe the issue, include a rep
 
 Contributions from anyone in the Movement Ecology/Acoustic Telemetry
 communities are welcome. Consider submitting a feature request
-[here](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/issues/new/choose) to start
-a discussion. Alternatively, if your idea is well-developed then you can
+[here](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/issues/new/choose) to start a discussion. Alternatively, if your idea is well-developed then you can
 submit a pull request for evaluation
 [here](https://github.com/IMOS-AnimalTracking/IMOS-ATF-to-DC-converter/pulls).
 
@@ -99,6 +96,7 @@ This work was funded by Australia’s Integrated Marine Observing System (IMOS, 
 
 ![](Images/gplv3-127x51.png) GNU General Public License (GPL>=3) https://www.gnu.org/licenses/gpl-3.0.en.html
 
+<br>
 <br>
 
 **Contributors:**  
