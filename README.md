@@ -23,7 +23,9 @@
 
 [Darwin Core](https://dwc.tdwg.org/) is a standard intended to facilitate the sharing of information about biological diversity. This **Shiny R app** enables the conversion between **IMOS acoustic telemetry data** into Darwin Core, so that the data can be shared with other databases.
 
-The acoustic telemetry data collected by the [IMOS Animal Acoustic Telemetry Database](https://animaltracking.aodn.org.au/) are quality-controlled every six months. While the complete quality-controlled dataset contains millions of rows of aquatic animals occurrence, a summarised version (aggregated with **daily resolution**, **per animal**, and at **acoustic receiver level**) has been created to facilitate manipulation and enable broad-picture data analyses including multiple species and large geographical areas. The objective of this app is to provide a tool to convert from the **IMOS Animal Tracking Facility quality controlled summarised data** format to **Darwin Core**, so that this ongoing dataset can be shared by other databases:
+The acoustic telemetry open access data collected by the [IMOS Animal Acoustic Telemetry Database](https://animaltracking.aodn.org.au/) are quality-controlled every six months, and are available via the [AODN Portal](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcatalogue-imos.aodn.org.au%2Fgeonetwork%2Fsrv%2Feng%2Fcatalog.search%23%2Fmetadata%2F541d4f15-122a-443d-ab4e-2b5feb08d6a0&data=05%7C02%7Cyuri.niella%40sims.org.au%7C1f751c65b91a4ebf84d008ddb9c89580%7C2ad6ac4f3f18439c9ce451ef497afa57%7C0%7C0%7C638870993379899779%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ay3i02mBtpF5INTmB456cAnALKJ%2BBPp3Ij8tKqGZuCw%3D&reserved=0). While the complete quality-controlled dataset contains millions of rows of aquatic animals occurrence, a summarised version (aggregated with **daily resolution**, **per animal**, and at **acoustic receiver level**) has been created to facilitate manipulation and enable broad-picture data analyses including multiple species and large geographical areas. You can access the summarised open access dataset [here]().
+
+The objective of this app is to provide a tool to convert from the **IMOS Animal Tracking Facility quality controlled summarised data** format to **Darwin Core**, so that this ongoing dataset can be shared by other databases:
 
 <p align="center">
   <img src="Images/Workflow1.png" width="800">
@@ -84,12 +86,12 @@ submit a pull request for evaluation
 
 ## Acknowledgements
 
-This work was funded by Australia’s Integrated Marine Observing System (IMOS, www.imos.org.au). IMOS is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). It is operated by a consortium of institutions as an unincorporated joint venture, with the University of Tasmania as Lead Agent. 
+This work is part of the Australia’s Integrated Marine Observing System (IMOS, www.imos.org.au). IMOS is enabled by the National Collaborative Research Infrastructure Strategy (NCRIS). It is operated by a consortium of institutions as an unincorporated joint venture, with the University of Tasmania as Lead Agent. While IMOS has funded staff time to develop this tool, it will now be part of ongoing data processing to exchange data between AODN and OBIS. 
+
 
 ## Data accessibility
-- Continental-scale acoustic telemetry data collated as part of Australia’s Integrated Marine Observing System (IMOS) are available via the [IMOS Australian Animal Acoustic Telemetry Database](https://animaltracking.aodn.org.au). 
-
-- Environmental and oceanographic datasets are available from the [IMOS Australian Ocean Data Network](https://portal.aodn.org.au/).
+- The full acoustic telemetry quality-controlled open access data collected by the IMOS Animal Acoustic Telemetry Database are available via the [AODN Portal](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcatalogue-imos.aodn.org.au%2Fgeonetwork%2Fsrv%2Feng%2Fcatalog.search%23%2Fmetadata%2F541d4f15-122a-443d-ab4e-2b5feb08d6a0&data=05%7C02%7Cyuri.niella%40sims.org.au%7C1f751c65b91a4ebf84d008ddb9c89580%7C2ad6ac4f3f18439c9ce451ef497afa57%7C0%7C0%7C638870993379899779%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ay3i02mBtpF5INTmB456cAnALKJ%2BBPp3Ij8tKqGZuCw%3D&reserved=0). 
+- The summarised acoustic telemetry quality-controlled open access data collected by the IMOS Animal Acoustic Telemetry Database, necessary to be processed using this conversion tool, are available [here](). 
 
 
 ## Licence
