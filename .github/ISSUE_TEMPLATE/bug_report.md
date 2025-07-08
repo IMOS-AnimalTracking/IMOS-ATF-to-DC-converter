@@ -16,7 +16,7 @@ assignees: ''
 ## How to Reproduce
 1.
 
-## Demo(e.g. Screenshots, Videos, Logs)
+## Demo (e.g. Screenshots, Videos, Logs)
 1.
 
 ## Desktop:
